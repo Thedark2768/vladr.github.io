@@ -1,12 +1,12 @@
 body{
   font-famaliy: arial, helvetica;
-  background: aqua;
+  background: #abdefa;
 }
 
 .menu{
   list-styles: none;
   padding: 0;
-  background: darkblue;
+  background: #409dc4;
   width: 90%;
   max-width: 1000px;
   margin: auto;
