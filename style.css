@@ -2,3 +2,12 @@ body{
   font-famaliy: arial, helvetica;
   background: aqua;
 }
+
+.menu{
+  list-styles: none;
+  padding: 0;
+  background: darkblue;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
