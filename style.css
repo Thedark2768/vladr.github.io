@@ -21,4 +21,9 @@ body{
 
 .menu li{
   display- inline-block;
+  text-algign: center;
+}
+
+.menu li a:hover{
+  background: green:
 }
