@@ -7,7 +7,7 @@ body{
 	list-style: none;
 	padding: 0;
 	background: #1E90FF;
-	width: 90%;
+	width: 900px;
 	max-width: 1000px;
 	margin: auto;
 }
@@ -28,3 +28,11 @@ body{
 	background: #ef8354;
 }
 
+@media screen and (min-width: 700px){
+	.menu li a:hover{
+	background: green;
+	}
+	.menu{
+	width: 400px;
+	}
+}
